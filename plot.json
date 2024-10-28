@@ -99,62 +99,62 @@
 "title_size": "11pt",
 "entries": [
  {
- "pointcolour": "#422680",
+ "pointcolour": "#E41A1C",
 "pointshape":       19,
 "pointsize":      1.5,
 "pointstroke":      0.5,
 "label": "High income: nonOECD",
-"pathcolour": "#422680",
+"pathcolour": "#E41A1C",
 "pathsize":      0.5,
 "pathlinetype":        1 
 },
 {
- "pointcolour": "#341671",
+ "pointcolour": "#377EB8",
 "pointshape":       19,
 "pointsize":      1.5,
 "pointstroke":      0.5,
 "label": "High income: OECD",
-"pathcolour": "#341671",
+"pathcolour": "#377EB8",
 "pathsize":      0.5,
 "pathlinetype":        1 
 },
 {
- "pointcolour": "#280659",
-"pointshape":       19,
-"pointsize":      1.5,
-"pointstroke":      0.5,
-"label": "Lower middle income",
-"pathcolour": "#280659",
-"pathsize":      0.5,
-"pathlinetype":        1 
-},
-{
- "pointcolour": "#660F56",
-"pointshape":       19,
-"pointsize":      1.5,
-"pointstroke":      0.5,
-"label": "Low income",
-"pathcolour": "#660F56",
-"pathsize":      0.5,
-"pathlinetype":        1 
-},
-{
- "pointcolour": "#AE2D68",
-"pointshape":       19,
-"pointsize":      1.5,
-"pointstroke":      0.5,
-"label": "Not classified",
-"pathcolour": "#AE2D68",
-"pathsize":      0.5,
-"pathlinetype":        1 
-},
-{
- "pointcolour": "#F54952",
+ "pointcolour": "#4DAF4A",
 "pointshape":       19,
 "pointsize":      1.5,
 "pointstroke":      0.5,
 "label": "Upper middle income",
-"pathcolour": "#F54952",
+"pathcolour": "#4DAF4A",
+"pathsize":      0.5,
+"pathlinetype":        1 
+},
+{
+ "pointcolour": "#984EA3",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointstroke":      0.5,
+"label": "Lower middle income",
+"pathcolour": "#984EA3",
+"pathsize":      0.5,
+"pathlinetype":        1 
+},
+{
+ "pointcolour": "#FF7F00",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointstroke":      0.5,
+"label": "Low income",
+"pathcolour": "#FF7F00",
+"pathsize":      0.5,
+"pathlinetype":        1 
+},
+{
+ "pointcolour": "#FFFF33",
+"pointshape":       19,
+"pointsize":      1.5,
+"pointstroke":      0.5,
+"label": "Not classified",
+"pathcolour": "#FFFF33",
 "pathsize":      0.5,
 "pathlinetype":        1 
 } 
